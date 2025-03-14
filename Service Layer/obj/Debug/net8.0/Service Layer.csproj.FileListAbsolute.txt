@@ -1,0 +1,17 @@
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Service Layer\bin\Debug\net8.0\Service Layer.deps.json
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Service Layer\bin\Debug\net8.0\Service Layer.dll
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Service Layer\bin\Debug\net8.0\Service Layer.pdb
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Service Layer\bin\Debug\net8.0\Domain Layer.dll
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Service Layer\bin\Debug\net8.0\Repository layer.dll
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Service Layer\bin\Debug\net8.0\Repository layer.pdb
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Service Layer\bin\Debug\net8.0\Domain Layer.pdb
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Service Layer\obj\Debug\net8.0\Service Layer.csproj.AssemblyReference.cache
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Service Layer\obj\Debug\net8.0\Service Layer.GeneratedMSBuildEditorConfig.editorconfig
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Service Layer\obj\Debug\net8.0\Service Layer.AssemblyInfoInputs.cache
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Service Layer\obj\Debug\net8.0\Service Layer.AssemblyInfo.cs
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Service Layer\obj\Debug\net8.0\Service Layer.csproj.CoreCompileInputs.cache
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Service Layer\obj\Debug\net8.0\Service .3A89A60B.Up2Date
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Service Layer\obj\Debug\net8.0\Service Layer.dll
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Service Layer\obj\Debug\net8.0\refint\Service Layer.dll
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Service Layer\obj\Debug\net8.0\Service Layer.pdb
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Service Layer\obj\Debug\net8.0\ref\Service Layer.dll

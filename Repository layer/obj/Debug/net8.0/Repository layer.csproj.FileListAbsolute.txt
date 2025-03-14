@@ -1,0 +1,15 @@
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Repository layer\bin\Debug\net8.0\Repository layer.deps.json
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Repository layer\bin\Debug\net8.0\Repository layer.dll
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Repository layer\bin\Debug\net8.0\Repository layer.pdb
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Repository layer\bin\Debug\net8.0\Domain Layer.dll
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Repository layer\bin\Debug\net8.0\Domain Layer.pdb
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Repository layer\obj\Debug\net8.0\Repository layer.csproj.AssemblyReference.cache
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Repository layer\obj\Debug\net8.0\Repository layer.GeneratedMSBuildEditorConfig.editorconfig
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Repository layer\obj\Debug\net8.0\Repository layer.AssemblyInfoInputs.cache
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Repository layer\obj\Debug\net8.0\Repository layer.AssemblyInfo.cs
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Repository layer\obj\Debug\net8.0\Repository layer.csproj.CoreCompileInputs.cache
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Repository layer\obj\Debug\net8.0\Reposito.5E279D04.Up2Date
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Repository layer\obj\Debug\net8.0\Repository layer.dll
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Repository layer\obj\Debug\net8.0\refint\Repository layer.dll
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Repository layer\obj\Debug\net8.0\Repository layer.pdb
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Repository layer\obj\Debug\net8.0\ref\Repository layer.dll

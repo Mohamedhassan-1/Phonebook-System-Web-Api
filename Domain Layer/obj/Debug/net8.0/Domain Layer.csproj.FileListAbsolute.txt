@@ -1,0 +1,14 @@
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Domain Layer\bin\Debug\net8.0\Domain Layer.deps.json
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Domain Layer\bin\Debug\net8.0\Domain Layer.dll
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Domain Layer\bin\Debug\net8.0\Domain Layer.pdb
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Domain Layer\obj\Debug\net8.0\Domain Layer.csproj.AssemblyReference.cache
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Domain Layer\obj\Debug\net8.0\Domain Layer.GeneratedMSBuildEditorConfig.editorconfig
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Domain Layer\obj\Debug\net8.0\Domain Layer.AssemblyInfoInputs.cache
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Domain Layer\obj\Debug\net8.0\Domain Layer.AssemblyInfo.cs
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Domain Layer\obj\Debug\net8.0\Domain Layer.csproj.CoreCompileInputs.cache
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Domain Layer\obj\Debug\net8.0\Domain Layer.dll
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Domain Layer\obj\Debug\net8.0\refint\Domain Layer.dll
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Domain Layer\obj\Debug\net8.0\Domain Layer.pdb
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Domain Layer\obj\Debug\net8.0\ref\Domain Layer.dll
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Domain Layer\bin\Debug\net8.0\Domain Layer.runtimeconfig.json
+F:\self study\asp . net\API\WebAPI\day_1\Phonebook System\Domain Layer\obj\Debug\net8.0\Domain Layer.genruntimeconfig.cache

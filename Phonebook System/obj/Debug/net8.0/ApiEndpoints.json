@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "Phonebook_System.Controllers.ContactController",
+    "Method": "getById",
+    "RelativePath": "{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Phonebook_System.Controllers.ContactController",
+    "Method": "getAll",
+    "RelativePath": "api/Contact",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Phonebook_System.Controllers.ContactController",
+    "Method": "DeleteStudent",
+    "RelativePath": "api/Contact",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Phonebook_System.Controllers.ContactController",
+    "Method": "Create",
+    "RelativePath": "Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contact",
+        "Type": "Domain_Layer.Models.Contact",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Phonebook_System.Controllers.ContactController",
+    "Method": "UpdateStudent",
+    "RelativePath": "Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contact",
+        "Type": "Domain_Layer.Models.Contact",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
