@@ -25,7 +25,7 @@ namespace Phonebook_System.Controllers
             }
              return Ok(obj);
         }
-        [HttpGet("/{id:int}")]
+        [HttpGet("{id:int}")]
         public ActionResult getById(int id)
         {
             var obj = _contactServices.Get(id);
@@ -36,19 +36,19 @@ namespace Phonebook_System.Controllers
             return Ok(obj);
         }
 
-        [HttpPost("/Create")]
+        [HttpPost("Create")]
         public ActionResult Create(Contact contact)
         {
             if (contact != null)
             {
                 _contactServices.Insert(contact);
-                return Ok("Created Successfully");
+                return Ok(new{message="Created Successfully"});
             }
-            return BadRequest("Somethingwent wrong");
+            return BadRequest(new{message="Somethingwent wrong"});
         }
 
-        [HttpPost("/Update")]
-        public ActionResult UpdateStudent(Contact contact)
+        [HttpPost("Update")]
+        public ActionResult Update(Contact contact)
         {
             if (contact != null)
             {
@@ -58,11 +58,11 @@ namespace Phonebook_System.Controllers
             return BadRequest();
             
         }
-        [HttpDelete]
-        public IActionResult DeleteStudent(int id)
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
         {     
             if(_contactServices.Delete(id))
-            return Ok("Deleted Successfully");
+            return Ok(new{ message ="Deleted Successfully" });
             return BadRequest("Something went wrong");
             
         }
